@@ -1,6 +1,6 @@
 # ASCIIJack - Console Blackjack Card Game
 
-**ASCIIJack** is a simple terminal-based Blackjack card game written in Python. Immerse yourself in the classic casino experience right from your command line!
+**ASCIIJack** is a simple terminal-based Blackjack card game written in Python.
 
 ## How to Play:
 
