@@ -1,0 +1,24 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PyCharm files
+.idea/
+*.iml
+*.ipr
+*.iws
+/.idea
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pyc/
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
